@@ -1,6 +1,5 @@
 *.css text eol=lf
 *.fxml text eol=lf
-* text eol=lf
 *.bat text eol=crlf
 *.sh text eol=lf
 
@@ -28,4 +27,6 @@ gradlew.bat text eol=crlf
 
 *.gitattributes text eol=crlf
 *.gitignore text eol=crlf
+
+
 
