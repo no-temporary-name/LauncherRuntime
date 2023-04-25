@@ -13,6 +13,7 @@
 gradle.properties text eol=crlf
 /gradle/wrapper/gradle-wrapper.properties text eol=crlf
 gradlew text eol=lf
+gradlew.bat text eol=lf
 *.cfg text eol=lf
 
 *.png binary
