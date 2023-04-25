@@ -1,5 +1,30 @@
-build.gradle text eol=lf
-*.java text eol=lf
-*.properties text eol=lf
 *.css text eol=lf
 *.fxml text eol=lf
+* text eol=lf
+*.bat text eol=crlf
+*.sh text eol=lf
+
+*.patch text eol=lf
+*.java text eol=lf
+*.scala text eol=lf
+*.groovy text eol=lf
+
+*.gradle text eol=crlf
+gradle.properties text eol=crlf
+/gradle/wrapper/gradle-wrapper.properties text eol=crlf
+gradlew text eol=lf
+*.cfg text eol=lf
+
+*.png binary
+*.jar binary
+*.war binary
+*.lzma binary
+*.zip binary
+*.gzip binary
+*.dll binary
+*.so binary
+*.exe binary
+
+*.gitattributes text eol=crlf
+*.gitignore text eol=crlf
+
